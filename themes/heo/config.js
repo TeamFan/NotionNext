@@ -18,7 +18,6 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '折腾不惜',
-  HEO_HERO_TITLE_2: '羊毛不止',
   HEO_HERO_TITLE_3: 'louany.COM',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
